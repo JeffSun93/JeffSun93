@@ -82,14 +82,6 @@ https://github.com/JeffSun93/frontend-nc-news
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JEFFSUN93&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFSUN93&layout=compact)
-
----
-
 ## Contact
 
 LinkedIn  
