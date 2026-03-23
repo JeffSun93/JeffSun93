@@ -14,7 +14,7 @@ Currently training at **Northcoders**, focusing on JavaScript development, REST 
 
 Backend REST API for a Reddit-style news platform.
 
-**Tech:** Node.js, Express, PostgreSQL, REST API, Jest
+**Tech:** Node.js, Express, PostgreSQL, REST API, Jest, Supertest
 
 Features:
 - CRUD endpoints for articles, comments, topics and users
