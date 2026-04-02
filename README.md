@@ -1,10 +1,10 @@
 # Zhengnan Sun
 
-Software Developer | JavaScript | Node.js | React  
+Software Developer | JavaScript | Node.js | React | Python | Java
 London, United Kingdom
 
-Inspired by how AI is transforming industries, I transitioned into software engineering after several years in private equity.  
-Currently training at **Northcoders**, focusing on JavaScript development, REST APIs, and React applications.
+I graduated with a degree in **Software Engineering**, with a foundation in **Java** and object-oriented programming, before joining a real estate private equity startup where I spent several years on the investment side.  
+Drawn back to tech by a passion for software and the rise of AI, I recently completed the **Northcoders** bootcamp — focusing on JavaScript, REST APIs, and React — and have been self-teaching **Python** alongside.
 
 ---
 
