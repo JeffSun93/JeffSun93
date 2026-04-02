@@ -1,7 +1,7 @@
 # Zhengnan Sun
 
 Software Developer | JavaScript | Node.js | React  
-London, United Kingdom  
+London, United Kingdom
 
 Inspired by how AI is transforming industries, I transitioned into software engineering after several years in private equity.  
 Currently training at **Northcoders**, focusing on JavaScript development, REST APIs, and React applications.
@@ -14,34 +14,13 @@ Currently training at **Northcoders**, focusing on JavaScript development, REST 
 
 A Reddit-style news platform built end-to-end, with a REST API backend and a React single-page application frontend.
 
+**Frontend** — React SPA (**React**, **React Router**, **Tailwind CSS**, **Axios**) for browsing, voting on, and commenting on articles.
+
+**Backend** — RESTful API (**Node.js**, **Express**, **PostgreSQL**) with MVC-inspired architecture, fully tested with **Jest** and **Supertest**.
+
 **Live app:** [https://nc-news-jeff.netlify.app](https://nc-news-jeff.netlify.app)  
+**Live API:** [https://jeff-nc-news.onrender.com](https://jeff-nc-news.onrender.com)  
 **Repo:** [https://github.com/JeffSun93/frontend-nc-news](https://github.com/JeffSun93/frontend-nc-news)
-
-> The backend runs on Render's free tier and may take 30–60 seconds to wake up after a period of inactivity.
-
-#### Frontend
-
-**Tech:** React, React Router, Tailwind CSS, Axios, JavaScript
-
-- Browse all articles or filter by topic
-- Sort articles by date, votes, or comment count
-- Read full article with body text and metadata
-- Vote on articles and comments with optimistic UI updates and error rollback
-- Post, view, and delete own comments
-- Comment count updates in real time when comments are added or deleted
-- Skeleton loading states throughout
-- Responsive layout
-
-#### Backend
-
-**Tech:** Node.js, Express, PostgreSQL (node-postgres), Jest, Supertest
-
-- RESTful API exposing endpoints for articles, comments, topics, and users
-- MVC-inspired layered architecture (Routes → Controllers → Services → Models)
-- Query support for filtering by topic and sorting by multiple fields
-- Unit tests (controllers, services, models in isolation) and integration tests (full request/response cycle against a live test database)
-- Husky pre-commit hook blocks commits if any test fails
-- Live API: [https://jeff-nc-news.onrender.com](https://jeff-nc-news.onrender.com)
 
 ---
 
@@ -49,44 +28,43 @@ A Reddit-style news platform built end-to-end, with a REST API backend and a Rea
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-API-lightgrey?logo=express)
-![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-blue)
-![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-black?logo=socket.io)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![React Native](https://img.shields.io/badge/React_Native-Expo-black?logo=expo)
-![HTML](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **Testing**
 
-![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
-![Supertest](https://img.shields.io/badge/Supertest-API--Testing-lightgrey)
-![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-brightgreen)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![Supertest](https://img.shields.io/badge/Supertest-0D1117?style=for-the-badge&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-0D1117?style=for-the-badge&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-Hosting-green?logo=netlify)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS%2FCDN-orange?logo=cloudflare)
-![Render](https://img.shields.io/badge/Render-Server-purple?logo=render)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-green?logo=supabase)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ---
 
