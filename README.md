@@ -10,41 +10,38 @@ Currently training at **Northcoders**, focusing on JavaScript development, REST 
 
 ## Projects
 
-### Northcoders News API
+### NC News — Full-Stack News Platform
 
-Backend REST API for a Reddit-style news platform.
+A Reddit-style news platform built end-to-end, with a REST API backend and a React single-page application frontend.
 
-**Tech:** Node.js, Express, PostgreSQL, REST API, Jest, Supertest
+**Live app:** [https://nc-news-jeff.netlify.app](https://nc-news-jeff.netlify.app)  
+**Repo:** [https://github.com/JeffSun93/frontend-nc-news](https://github.com/JeffSun93/frontend-nc-news)
 
-Features:
-- CRUD endpoints for articles, comments, topics and users
-- Query support for sorting and filtering
-- Comment aggregation per article
-- Fully tested using Jest and Supertest
+> The backend runs on Render's free tier and may take 30–60 seconds to wake up after a period of inactivity.
 
-🔗 Repo  
-https://github.com/JeffSun93/backend-nc-news  
+#### Frontend
 
-🌐 Live API  
-https://jeff-nc-news.onrender.com
+**Tech:** React, React Router, Tailwind CSS, Axios, JavaScript
 
----
+- Browse all articles or filter by topic
+- Sort articles by date, votes, or comment count
+- Read full article with body text and metadata
+- Vote on articles and comments with optimistic UI updates and error rollback
+- Post, view, and delete own comments
+- Comment count updates in real time when comments are added or deleted
+- Skeleton loading states throughout
+- Responsive layout
 
-### Northcoders News Frontend
+#### Backend
 
-React application consuming the News API.
+**Tech:** Node.js, Express, PostgreSQL (node-postgres), Jest, Supertest
 
-**Tech:** React, JavaScript, Axios, CSS
-
-Features:
-- Browse articles and topic categories
-- View individual article pages
-- Add and delete comments
-- Vote on articles
-- Responsive user interface
-
-🔗 Repo  
-https://github.com/JeffSun93/frontend-nc-news
+- RESTful API exposing endpoints for articles, comments, topics, and users
+- MVC-inspired layered architecture (Routes → Controllers → Services → Models)
+- Query support for filtering by topic and sorting by multiple fields
+- Unit tests (controllers, services, models in isolation) and integration tests (full request/response cycle against a live test database)
+- Husky pre-commit hook blocks commits if any test fails
+- Live API: [https://jeff-nc-news.onrender.com](https://jeff-nc-news.onrender.com)
 
 ---
 
