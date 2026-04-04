@@ -24,6 +24,27 @@ A Reddit-style news platform built end-to-end, with a REST API backend and a Rea
 
 ---
 
+### SpillR — Real-Time TV Social App
+
+> **Group project — 6 members** | React Native · Expo · Socket.io · Supabase · Node.js · Express
+
+A mobile app where users watch TV episodes together, post timestamped comments, react with emojis, create polls, and see which friends are watching — all in real time.
+
+**My contributions:**
+
+- **Real-time presence** — designed and implemented the full-stack "Friends Are Watching" feature (dual in-memory Maps on server, 5 Socket.io event listeners on client)
+- **Data pipeline** — wrote the script that fetches, merges, and normalises TV show data from two external APIs (TVmaze + TVDB) with rate-limiting and partial-failure handling
+- **Backend architecture** — established the MVC structure and contributed a portion of the Express endpoints
+- **Trending shows** — built the `sort_by=comments` endpoint and the frontend carousel, end-to-end
+- **Comments UI** — contributed to `CommentCard` component work
+
+**Post-fork:** added single session locking to prevent shared logins, an auth guard for login-first flow, and independently redeployed the backend to Render using Docker.
+
+**Live API:** [https://spillr-be-improved.onrender.com](https://spillr-be-improved.onrender.com)  
+**Repo:** [https://github.com/JeffSun93/SpillR-app-improved](https://github.com/JeffSun93/SpillR-app-improved)
+
+---
+
 ## Tech Stack
 
 **Languages**
