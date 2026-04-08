@@ -3,8 +3,9 @@
 Software Developer | JavaScript | Node.js | React | Python | Java
 London, United Kingdom
 
-I graduated with a degree in **Software Engineering**, with a foundation in **Java** and object-oriented programming, before joining a real estate private equity startup where I spent several years on the investment side.  
-Drawn back to tech by a passion for software and the rise of AI, I recently completed the **Northcoders** bootcamp — focusing on JavaScript, REST APIs, and React — and have been self-teaching **Python** alongside.
+Software Engineering graduate with a foundation in **Java** and OOP. After a detour into finance, I made a deliberate return to tech — motivated by a genuine passion for building software and the rapid rise of AI.
+
+To make that transition concrete, I completed the **Northcoders** bootcamp (JavaScript · Node.js · REST APIs · React), have been self-teaching **Python**, and have shipped several full-stack and real-time projects independently.
 
 ---
 
