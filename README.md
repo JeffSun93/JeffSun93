@@ -39,7 +39,7 @@ A mobile app where users watch TV episodes together, post timestamped comments, 
 - **Trending shows** — built the trending shows feature end-to-end, from the backend endpoint to the frontend carousel
 - **Comments UI** — contributed to some components related to the comments system
 
-**Post-fork:** added single session locking to prevent shared logins, an auth guard for login-first flow, and independently redeployed the backend to Render using Docker.
+**Post-fork:** independently redeployed the backend to Render using Docker, and refactored data fetching to use a RESTful API instead of direct Supabase queries.
 
 **Live API:** [https://spillr-be-improved.onrender.com](https://spillr-be-improved.onrender.com)  
 **Repo:** [https://github.com/JeffSun93/SpillR-app-improved](https://github.com/JeffSun93/SpillR-app-improved)
