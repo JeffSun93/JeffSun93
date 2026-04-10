@@ -1,6 +1,6 @@
 # Zhengnan Sun
 
-Software Developer | JavaScript | TypeScript | Node.js | React | Python | Java
+Software Developer | JavaScript | TypeScript | Node.js | React | Python | Java  
 London, United Kingdom
 
 Software Engineering graduate with a foundation in **Java** and OOP. After a detour into finance, I made a deliberate return to tech — motivated by a genuine passion for building software and the rapid rise of AI.
