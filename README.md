@@ -1,11 +1,17 @@
 # Zhengnan Sun
 
-Software Developer | JavaScript | TypeScript | Node.js | React | Python | Java  
+Junior Software Developer | JavaScript | TypeScript | Node.js | React | Python | Java  
 London, United Kingdom
 
-Software Engineering graduate with a foundation in **Java** and OOP. After a detour into finance, I made a deliberate return to tech — motivated by a genuine passion for building software and the rapid rise of AI.
+Hi, I'm Jeff 👋
 
-To make that transition concrete, I completed the **Northcoders** bootcamp (JavaScript · Node.js · REST APIs · React), have been self-teaching **Python**, and have shipped several full-stack and real-time projects independently.
+Junior Software Engineer trained in **JavaScript**, **Node.js** and **React** at the **Northcoders** Software Engineering Bootcamp.
+
+I enjoy building full-stack and real-time web applications, working with REST APIs, Git and Test-Driven Development.
+
+Currently expanding my skills in **Python** and **TypeScript**, with an interest in AI-driven applications.
+
+Focused on writing clean, maintainable and well-tested code.
 
 ---
 
