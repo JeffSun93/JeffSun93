@@ -33,7 +33,7 @@ A Reddit-style news platform built end-to-end, with a REST API backend and a Rea
 
 ### SpillR — Real-Time TV Social App
 
-> **Group project — 6 members** | React Native · Expo · Socket.io · Supabase · Node.js · Express · PostgreSQL
+> **Group project — 6 members in 2 weeks** | React Native · Expo · Socket.io · Supabase · Node.js · Express · PostgreSQL
 
 A mobile app where users watch TV episodes together, post timestamped comments, react with emojis, create polls, and see which friends are watching — all in real time.
 
