@@ -79,7 +79,6 @@ A mobile app where users watch TV episodes together, post timestamped comments, 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=for-the-badge&cacheSeconds=0&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=for-the-badge&cacheSeconds=0&logo=mongodb&logoColor=47A248)
 
 **Testing**
 
