@@ -79,6 +79,7 @@ A mobile app where users watch TV episodes together, post timestamped comments, 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=for-the-badge&cacheSeconds=0&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-21262D?style=for-the-badge&cacheSeconds=0&logo=supabase&logoColor=3ECF8E)
 
 **Testing**
 
@@ -92,7 +93,6 @@ A mobile app where users watch TV episodes together, post timestamped comments, 
 ![GitHub](https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&cacheSeconds=0&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-21262D?style=for-the-badge&cacheSeconds=0&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/Render-21262D?style=for-the-badge&cacheSeconds=0&logo=render&logoColor=46E3B7)
-![Supabase](https://img.shields.io/badge/Supabase-21262D?style=for-the-badge&cacheSeconds=0&logo=supabase&logoColor=3ECF8E)
 
 ---
 
