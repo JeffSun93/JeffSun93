@@ -5,7 +5,7 @@ London, United Kingdom
 
 Hi, I'm Jeff 👋
 
-Junior Software Engineer trained in **JavaScript**, **Node.js** and **React** at the **Northcoders** Software Engineering Bootcamp.
+I am a Junior Software Engineer trained in **JavaScript**, **Node.js** and **React** at the **Northcoders** Software Engineering Bootcamp.
 
 I enjoy building full-stack and real-time web applications, working with REST APIs, Git and Test-Driven Development.
 
