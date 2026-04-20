@@ -26,7 +26,6 @@ A Reddit-style news platform built end-to-end, with a REST API backend and a Rea
 **Backend** — RESTful API (**Node.js**, **Express**, **PostgreSQL**) with MVC-inspired architecture, fully tested with **Jest** and **Supertest**.
 
 **Live app:** [https://nc-news-jeff.netlify.app](https://nc-news-jeff.netlify.app)     
-
 **Live API:** [https://jeff-nc-news.onrender.com](https://jeff-nc-news-backup.onrender.com)  
 **Repo:** [https://github.com/JeffSun93/frontend-nc-news](https://github.com/JeffSun93/frontend-nc-news)
 
@@ -49,7 +48,7 @@ A mobile app where users watch TV episodes together, post timestamped comments, 
 **Post-fork:** independently redeployed the backend to Render using Docker, refactored all data fetching from direct Supabase queries to a RESTful API, and implemented a socket-based single-session lock to prevent concurrent logins on the same account.
 
 **Web demo:** [https://spiller.netlify.app](https://spiller.netlify.app)  
-**Mobile demo:** [https://appetize.io/app/b_gs6xaa4ybdkivvnihe3aijkwhi](https://appetize.io/app/b_gs6xaa4ybdkivvnihe3aijkwhi)
+**Mobile demo:** [https://appetize.io/app/b_gs6xaa4ybdkivvnihe3aijkwhi](https://appetize.io/app/b_gs6xaa4ybdkivvnihe3aijkwhi)     
 **Live API:** [https://spillr-be-improved.onrender.com](https://spillr-be-improved-backup.onrender.com)  
 **Repo:** [https://github.com/JeffSun93/SpillR-app-improved](https://github.com/JeffSun93/SpillR-app-improved)
 
