@@ -26,6 +26,7 @@ A Reddit-style news platform built end-to-end, with a REST API backend and a Rea
 **Backend** — RESTful API (**Node.js**, **Express**, **PostgreSQL**) with MVC-inspired architecture, fully tested with **Jest** and **Supertest**.
 
 **Live app:** [https://nc-news-jeff.netlify.app](https://nc-news-jeff.netlify.app)     
+
 **Live API:** [https://jeff-nc-news.onrender.com](https://jeff-nc-news-backup.onrender.com)  
 **Repo:** [https://github.com/JeffSun93/frontend-nc-news](https://github.com/JeffSun93/frontend-nc-news)
 
